@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeixinRobot", "WeiXinrobot\WeixinRobot.csproj", "{E5C17B00-7C8E-4820-8FCB-FCBD76FC0FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginEngine", "PluginEngine\PluginEngine.csproj", "{1B1627BC-F459-4547-BEE1-60A0AF32D29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccelerateBall", "AccelerateBall\AccelerateBall.csproj", "{2F6719BA-2171-4E53-A20D-171FB29905F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5C17B00-7C8E-4820-8FCB-FCBD76FC0FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C17B00-7C8E-4820-8FCB-FCBD76FC0FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C17B00-7C8E-4820-8FCB-FCBD76FC0FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C17B00-7C8E-4820-8FCB-FCBD76FC0FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1627BC-F459-4547-BEE1-60A0AF32D29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1627BC-F459-4547-BEE1-60A0AF32D29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1627BC-F459-4547-BEE1-60A0AF32D29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1627BC-F459-4547-BEE1-60A0AF32D29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6719BA-2171-4E53-A20D-171FB29905F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6719BA-2171-4E53-A20D-171FB29905F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6719BA-2171-4E53-A20D-171FB29905F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6719BA-2171-4E53-A20D-171FB29905F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
